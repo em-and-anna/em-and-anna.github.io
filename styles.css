@@ -1,0 +1,44 @@
+body {
+/*	background-color: #bc986a;*/
+    background-image: url('http://www.tokkoro.com/picsup/398301-forest-background-hd.jpg');
+	text-align: center;
+	color: #eee8dc;
+}
+
+div#logo-div {
+	width: 100%;
+	text-align: center;
+}
+
+img#logo-img {
+	width: 300px;
+}
+
+ul#gallery {
+	margin: auto;
+	width: 90%;
+	list-style: none;
+	text-align: center;
+}
+
+li.gallery-img {
+	text-align: center;
+	display: inline;
+}
+
+h1 {
+	font-size: 42px;
+	font-family: 'Lobster', cursive;
+}
+
+p {
+	margin: auto;
+	width: 50%;
+	text-align: center;
+	font-size: 24px;
+}
+
+a {
+	color: #eee8dc;
+	text-decoration: none;
+}
